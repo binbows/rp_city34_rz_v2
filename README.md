@@ -16,7 +16,7 @@ Thank you for playing.
 - binbows
 - EpicGamerMan
 
-### REQUIEM-APEX DEVELOPMENT
+### REQUIEM-APEX
 
 - Adrian Sheppard 
 - Balex
