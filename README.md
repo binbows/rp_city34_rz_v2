@@ -5,8 +5,25 @@ Thank you for playing.
 
 # Credits
 
-  - binbows
-  - EpicGamerMan
-  - Team Requiem
-  - The Requiem Moderation Team
-  - and You.
+## ORIGINAL CREATOR
+
+  - Svensis
+
+## TEAM REQUIEM
+
+### MAPPING
+
+- binbows
+- EpicGamerMan
+
+### DEVELOPMENT
+
+- Adrian Sheppard 
+- Balex
+- Logone
+- Nukegoboom
+- Jasperdoit
+- Jambez
+- Watermelon
+- Gyarik
+
