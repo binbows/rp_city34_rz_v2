@@ -8,5 +8,5 @@ Thank you for playing.
   - binbows
   - EpicGamerMan
   - Team Requiem
-  - The Moderation Team
-  - You
+  - The Requiem Moderation Team
+  - and You.
