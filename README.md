@@ -26,4 +26,5 @@ Thank you for playing.
 - Jambez
 - Watermelon
 - Gyarik
+- The Moderation Team
 
